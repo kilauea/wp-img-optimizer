@@ -21,3 +21,6 @@ package-lock.json
 
 # Logs
 *.log
+
+# Kiro specs/steering kept locally, not published
+.kiro/
