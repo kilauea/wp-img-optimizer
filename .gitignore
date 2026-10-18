@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+
+# PHP / Composer (not used yet, but ignore if added later)
+/vendor/
+composer.lock
+
+# Node (not used yet)
+/node_modules/
+package-lock.json
+
+# Build / dist artifacts
+/dist/
+/build/
+*.zip
+
+# Logs
+*.log
